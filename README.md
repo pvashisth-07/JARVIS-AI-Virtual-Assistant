@@ -1,4 +1,4 @@
-# J.A.R.V.I.S - Your Personal Voice Assistant
+# J.A.R.V.I.S - Your Personal Voice AI Assistant
 
 ## 📌 Project Overview
 J.A.R.V.I.S is a Python-based voice assistant that can execute commands, browse the web, fetch news, play music, and even respond intelligently using OpenAI's API. This assistant listens for the wake word **"Jarvis"** and responds to voice commands accordingly.
