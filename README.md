@@ -45,6 +45,8 @@ J.A.R.V.I.S is a Python-based voice assistant that can execute commands, browse 
 - **Wake Word:** Say **"Jarvis"** to activate.
 - **Commands:**
   - "Open Google" → Opens Google.
+  - "Open Youtube" → Opens YouTube.
+  - "Open LinkedIn" → Opens LinkedIn.
   - "News" → Fetches the latest headlines.
   - "Play [song_name]" → Plays the specified song.
   - Any other question → Gets a response from OpenAI.
